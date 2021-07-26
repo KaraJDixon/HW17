@@ -1,0 +1,91 @@
+.navigation {
+    background-color: #7e978a;
+    width: 100%;
+    position: sticky; 
+    top: 10px;
+}
+
+.inline-block {
+    display:inline-block;
+    vertical-align: top;
+    padding: 3px 10px 0px 10px;
+}
+
+.logo {
+    height: 10%;
+    padding: 1%;
+    text-align: center;
+}
+
+nav {
+    width: 85%;
+    padding: 1%;
+    text-align: right;
+}
+
+ul {
+    width: 50%;
+    margin-left: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: auto;
+    color: #F0EDE4;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+.heroImg {
+    padding: 25px;
+}
+
+.content {
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 60px;
+    text-align: center;
+}
+
+footer {
+    background-color: #7e978a;
+    width: 100%;
+    position: bottom;
+    color: white;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+.topmenu {
+    float: right;
+}
+
+a:link {
+    color: #F0EDE4;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #F0EDE4;
+    text-decoration: none; 
+}
+
+a:hover {
+    color: #4d5d53;
+    text-decoration: none;
+}
+
+a:active {
+    color: #b7a090;
+    text-decoration: none;
+}
+
+html, body {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+}
